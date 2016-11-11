@@ -9,5 +9,8 @@
             "email": "1972694739@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "xiezn\\demo\\": "src" }
+    },
     "require": {}
 }
