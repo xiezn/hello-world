@@ -1,0 +1,13 @@
+{
+    "name": "xiezn/hello-world",
+    "description": "this is a hello world repo for composer.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiezn",
+            "email": "1972694739@qq.com"
+        }
+    ],
+    "require": {}
+}
